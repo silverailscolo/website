@@ -79,8 +79,6 @@
 
 	    <a href="#prod-rel">Release 4.22</a> is the current "production" release, recommended
 	    for first-time users.
-
-
 	</dl>
 
   <div class="list">
@@ -89,27 +87,11 @@
     <dl>
     <dt class="im"><img src="../images/ico-jmri.gif" width="34" height="34" alt="JMRI logo"></dt>
     <dd>
-	<a id="prod-download"></a><p class="dl">Download:
-        <ul>
-        <li>OS X / macOS: <a
-            href="https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.dmg">https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.dmg</a><br/>
-          sha256: 55f9ac72f5452227a3949e363f9235f0d05e5a01d8d6224c90dc9dfbb87d0a0b </li>
-
-        <li>Windows: <a
-            href="https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.exe">https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.exe</a><br/>
-           sha256: ac71bfa05a13994e87ab5ba10f379ed77a8a1b5aad137afb9415f0ec23d10d52</li>
-
-        <li>Linux: <a
-            href="https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.tgz">https://github.com/JMRI/JMRI/releases/download/v4.22/JMRI.4.22+R4c4384d74.tgz</a><br/>
-           sha256: a63b8a9722efa4743fd5c6fddb881f1175154df700e75bb1658658a512fcfa45</li>
-        </ul>
-
-    <strong>Notes:</strong><br>
-    <p>For more information on the release contents, please see the
-    <a href="../releasenotes/jmri4.22.shtml">release note</a>.
-    </p>
-    <p>These files can be used for either a new installation or updating an existing installation.</p>
-    <p>We recommend that you verify the downloaded files using the provided sha256 key.</p>
+    	    <p>Release 4.22 is the current production release, recommended for first-time
+	    and casual users. It requires Java 8 (also known as 1.8). Please see the
+	    <a href="../releasenotes/jmri4.22.shtml">release note</A> for download and install
+	    information.</p>
+	    <p>Production release 4.22 was made available on March 1, 2021.</p>
     <p>
     If you're looking to download Rodney Black's
     <a href="http://cats4ctc.org"><!-- was http://home.comcast.net/~kb0oys/ --> CATS</a>
@@ -131,7 +113,7 @@
 	    run Java 1.6. Please see the
 	    <a href="../releasenotes/jmri3.10.1.shtml">release note</A> for download and install
 	    information.
-	    <p>Production release 3.10.1 was made available onn January 11, 2015.</p>
+	    <p>Production release 3.10.1 was made available on January 11, 2015.</p>
 
 	<div style="clear: both"></div>
     </dd>
