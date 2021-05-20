@@ -122,7 +122,6 @@
             <div class="flex-item-50">
                 <h4 onclick="collapse('download1')" class="button card-1">JMRI 4.22 Production Release</h4>
                 <div id="download1" class="hidden">
-                    <p><a href="/download/index.shtml#prod-rel">Download 4.22</a></p>
                     Released on March 1, 2021.
                     <p>
                     JMRI 4.22 is recommended for new users. It is the most
@@ -136,7 +135,6 @@
             <div class="flex-item-50">
                 <h4 onclick="collapse('download2')" class="button card-1">JMRI 4.23.5 Test Release</h4>
                 <div id="download2" class="hidden">
-                    <p><a href="releasenotes/jmri4.23.5.shtml"></a></p>
                     Released on May 12, 2021.
                     <p>
                     This is the next in a series working toward the next JMRI production release 4.24
@@ -156,7 +154,6 @@
                 <h4 onclick="collapse('download3')" class="button card-1">JMRI 3.10.1 Production
                     Release</h4>
                 <div id="download3" class="hidden">
-                    <p><a href="releasenotes/jmri3.10.1.shtml"></a></p>
                     Released on January 11, 2015.
                     <p>
                     JMRI 3.10.1 is recommended for JMRI users with computers
@@ -171,7 +168,6 @@
                 <h4 onclick="collapse('download4')" class="button card-1">JMRI 2.14.1 Production
                     Release</h4>
                 <div id="download4" class="hidden">
-                    <p><a href="releasenotes/jmri2.14.1.shtml"></a></p>
                     Released on July 15, 2012.
                     <p>
                     JMRI 2.14.1 is recommended for JMRI users with computers
